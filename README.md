@@ -52,6 +52,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
+<<<<<<< HEAD
 ### HTML Code (index.html)
 ```
 
@@ -779,6 +780,11 @@ footer {
 ```
 ## OUTPUT
 ![Commercial Website Screenshot](./s-1.png)
+=======
+
+## OUTPUT
+
+>>>>>>> 57b8893df594163faeeb67682afbd93c5bacc1bd
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
